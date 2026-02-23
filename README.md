@@ -1,16 +1,14 @@
-## Hi there 👋
+ 👋 Hello, I'm Wayne Mungai
 
-<!--
-**ngushmungai-commits/ngushmungai-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ About Me
+I am a beginner learning Git and GitHub.
+I am studying Electrical Engineering.
+I am excited to grow my programming skills.
 
-Here are some ideas to get you started:
+Skills I Am Learning
+- Git
+- GitHub
+- Basic Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ My Goal
+To become confident in using Git and GitHub.
