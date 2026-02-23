@@ -12,3 +12,13 @@ Skills I Am Learning
 
  My Goal
 To become confident in using Git and GitHub.
+
+ 🌟 Learning Journey
+I am learning Git and GitHub using practical exercises.
+
+📌 Status
+- Profile README created  
+- Website hosted using GitHub Pages  
+- Markdown practice completed  
+- Collaboration workflow understood  
+- Issues and project board created
